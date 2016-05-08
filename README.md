@@ -16,7 +16,7 @@ Calculatr |
  | 
 
 
-![calculatr_screencast1_resize](https://cloud.githubusercontent.com/assets/11635523/15099368/3264db86-1519-11e6-8333-14e13a51bd0b.png)
+
 
 
 ###Android Level 2
