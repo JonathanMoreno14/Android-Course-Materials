@@ -6,7 +6,9 @@ The course Structure will consist of Android Levels
 ###Android Level 1
 Consist of familiarizing the student with the development tools such as Android Studio, Git (Version Control), and an introduction of the project structure. Along with Android Studio the student will create, build , and publish a simple Android application.
 
+#####Projects
 
+![calculatr_screencast1_resize](https://cloud.githubusercontent.com/assets/11635523/15099368/3264db86-1519-11e6-8333-14e13a51bd0b.png)
 
 
 ###Android Level 2
