@@ -6,7 +6,23 @@ The course Structure will consist of Android Levels
 ###Android Level 1
 Consist of familiarizing the student with the development tools such as Android Studio, Git (Version Control), and an introduction of the project structure. Along with Android Studio the student will create, build , and publish a simple calculator Android application on the Google Play Store.
 
-#####Projects
+####Topics Covered
+*Structure*
+
+*Views and Layouts*
+
+*Designing and Styling Views*
+
+*AdapterViews*
+
+*Interaction*
+
+*Navigation*
+
+*Material Design*
+
+
+###Projects
 
 [My Tip Calculatr](https://github.com/JonathanMoreno14/My-Tip-Calculatr) | Second Header
 ------------ | -------------
