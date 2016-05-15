@@ -1,3 +1,6 @@
+###Sample Project
+
+
 This repository contains a sample applications that was used to create a simple graphical user interface with event listeners. 
 
 
@@ -6,6 +9,7 @@ This repository contains a sample applications that was used to create a simple 
 
 ![output_v0xko3](https://cloud.githubusercontent.com/assets/11635523/15272436/0a372f0e-1a3e-11e6-8970-509e83674b9b.gif)
 
+####MainActivity.java code
 
 ```java
 
