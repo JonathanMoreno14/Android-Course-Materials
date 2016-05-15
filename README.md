@@ -21,6 +21,10 @@ Consist of familiarizing the student with the development tools such as Android 
 
 *Material Design*
 
+*Debugging*
+
+*Android Studio IDE*
+
 
 ###Projects
 
