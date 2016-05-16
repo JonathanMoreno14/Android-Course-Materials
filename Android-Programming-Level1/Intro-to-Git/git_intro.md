@@ -19,4 +19,12 @@ To search for that specific folder we will use the *Git Bash terminal*
 
 ![gitintro2](https://cloud.githubusercontent.com/assets/11635523/15301945/db1f6298-1b75-11e6-8ff6-3b464009efd6.PNG)
 
-Now we are inside the folder were the file is located
+Now we are inside the folder were the file is located from here we are going to initialize a repository for this file using **git init**
+
+Once the repository has been initialized he had the file to the repository using **git add -A** this command will add the file into the repository
+
+Lastly you commit the changes that have been made what so ever using this command **git commit -m "Some message"**
+
+
+
+
