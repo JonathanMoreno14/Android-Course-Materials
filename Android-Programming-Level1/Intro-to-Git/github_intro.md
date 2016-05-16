@@ -8,3 +8,6 @@ First we create a new remote prepositroy on our Github profile
 
 On the upper right corner you select **New repository**
 
+![githubintro2](https://cloud.githubusercontent.com/assets/11635523/15302788/50247368-1b7a-11e6-87a2-b9a771dec15d.PNG)
+
+Once you add the Repository name and if applicable,  you choose to add a description for the repositroy you can then click on **Create repositroy**
