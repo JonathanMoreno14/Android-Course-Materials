@@ -25,6 +25,6 @@ Once the repository has been initialized he had the file to the repository using
 
 Lastly you commit the changes that have been made what so ever using this command **git commit -m "Some message"**
 
-
+![gitintro3](https://cloud.githubusercontent.com/assets/11635523/15302226/76ddabda-1b77-11e6-8696-7829deefc1ae.PNG)
 
 
