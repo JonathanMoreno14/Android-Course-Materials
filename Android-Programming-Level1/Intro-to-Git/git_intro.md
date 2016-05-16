@@ -27,4 +27,10 @@ Lastly you commit the changes that have been made what so ever using this comman
 
 ![gitintro3](https://cloud.githubusercontent.com/assets/11635523/15302226/76ddabda-1b77-11e6-8696-7829deefc1ae.PNG)
 
+And there you go you have working repository for the index_file folder/file
 
+When you make changes to the file you would just need to add the file the master branch and commit the file. 
+
+**git add -A**
+
+**git commit -m "Some message relating to the changes made on the file"**
