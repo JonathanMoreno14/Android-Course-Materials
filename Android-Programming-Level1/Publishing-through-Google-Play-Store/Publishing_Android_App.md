@@ -15,4 +15,4 @@ Generate Signed APK screen will show, you will need to select a path for the **k
 
 *KeyStore is responsible for maintaining cryptographic keys and their owners. -Android Developer API*
 
-You will then need to provide a **key store password**, **key Alias**, and **key password** for your application. The key Alias is a hint for the type of application you are using. 
+You will then need to provide a **key store password**, **key Alias**, and **key password** for your application. The key Alias is a hint for the type of application you are using. From there you will click **Next**
