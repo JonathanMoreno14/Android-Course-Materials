@@ -43,7 +43,9 @@ From there another screen will pop up, you will have the choice of drag and drop
 
 ![publishapp9](https://cloud.githubusercontent.com/assets/11635523/15336880/4e0083c8-1c3e-11e6-8dcb-774852015296.PNG)
 
-Once that is completed you can now finish up the Store Listings, if you have not started on it
+Once that is completed you can now finish up the Store Listings, if you have not started on it. You will need to work on the **Content Rating**, **Pricing & Distribution**, **In-App Products**, and **Services & APIs** 
 
 ![publishapp10](https://cloud.githubusercontent.com/assets/11635523/15336881/4e00b6a4-1c3e-11e6-8546-b53d07ba5a72.PNG)
+
+After that is completed you can Select **Publish App** on the applications screen. Depending on the file size it can take up to a couple of hours for the application to appear on the Google Play Store. 
 
