@@ -1,5 +1,5 @@
 # Android-Course-Materials
-This repository consist of Android Sample apps and additional sources for a class I will be teaching on Android Programming at a local University. The Sample apps where created to show theory with application
+This repository consist of Android Sample apps and additional sources for a class I will be teaching on Android Programming at The University of Texas at Arlington. The Sample apps where created to show theory with application
 
 The course Structure will consist of Android Levels
 
