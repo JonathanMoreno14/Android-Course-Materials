@@ -15,13 +15,19 @@ Generate Signed APK screen will show, you will need to select a path for the **k
 
 *KeyStore is responsible for maintaining cryptographic keys and their owners. -Android Developer API*
 
-You will then need to provide a **key store password**, **key Alias**, and **key password** for your application. The key Alias is a hint for the type of application you are using. From there you will click **Next**
+You will then need to provide a **key store password**, **key Alias**, and **key password** for your application. The key Alias is a hint for the type of application you are using. From there you will click **Next** Android Studio will generate the APK.
 
 
+
+Once the APK has been generated you will need to go to **Google Developer Console** The console is used to upload and distribute your finished Android Applications. 
 
 ![publishapp4](https://cloud.githubusercontent.com/assets/11635523/15336884/4e0e4382-1c3e-11e6-8647-6854d951fcd9.PNG)
 
+Once you ready to upload the Genearted APK you will click on **+Add New Application**
+
 ![publishapp5](https://cloud.githubusercontent.com/assets/11635523/15336878/4dff681c-1c3e-11e6-92e2-bc6cf70ed58e.PNG)
+
+A Screen will pop pup, you will need to type in the title of the application. Once that is done you will click on **Uplaod APK**
 
 ![publishapp6](https://cloud.githubusercontent.com/assets/11635523/15336882/4e046948-1c3e-11e6-8c91-93fb446855a6.PNG)
 
