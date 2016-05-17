@@ -27,15 +27,23 @@ Once you ready to upload the Genearted APK you will click on **+Add New Applicat
 
 ![publishapp5](https://cloud.githubusercontent.com/assets/11635523/15336878/4dff681c-1c3e-11e6-92e2-bc6cf70ed58e.PNG)
 
-A Screen will pop pup, you will need to type in the title of the application. Once that is done you will click on **Uplaod APK**
+A Screen will pop pup, you will need to type in the title of the application. Once that is done you will click on **Upload APK** or select **Prepare Store Listing** the store listings are the markteting attributes for the Application once it is uploaded to the Google Play Store
 
 ![publishapp6](https://cloud.githubusercontent.com/assets/11635523/15336882/4e046948-1c3e-11e6-8c91-93fb446855a6.PNG)
 
+Once the APK has been downloaded you will be taken to the applications screen for that specific application you uploaded. When you are ready you can now upload the APK to Production
+
 ![publishapp7](https://cloud.githubusercontent.com/assets/11635523/15336883/4e046a24-1c3e-11e6-9cc4-3fd9770c5f2b.PNG)
+
+To upload the APK to Production you will need to click on **Upload your First APK to Production**
 
 ![publishapp8](https://cloud.githubusercontent.com/assets/11635523/15336879/4dfff7dc-1c3e-11e6-803f-0b898ac040e0.PNG)
 
+From there another screen will pop up, you will have the choice of drag and drop the APK or selecting the file
+
 ![publishapp9](https://cloud.githubusercontent.com/assets/11635523/15336880/4e0083c8-1c3e-11e6-8dcb-774852015296.PNG)
+
+Once that is completed you can now finish up the Store Listings, if you have not started on it
 
 ![publishapp10](https://cloud.githubusercontent.com/assets/11635523/15336881/4e00b6a4-1c3e-11e6-8546-b53d07ba5a72.PNG)
 
