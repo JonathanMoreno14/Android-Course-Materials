@@ -1,7 +1,11 @@
 #Publishing Your Android Application
 
+Using Android Studio on the top center you will click on the **Build** function
+
 
 ![publishapp1](https://cloud.githubusercontent.com/assets/11635523/15312107/e66d9dda-1bc6-11e6-96e1-1dd7519f38cb.PNG)
+
+There will be a dropdown menu click on **Generate Signed APK...**
 
 ![publishapp2](https://cloud.githubusercontent.com/assets/11635523/15312108/e66d940c-1bc6-11e6-9cde-171e0de73f78.PNG)
 
