@@ -26,7 +26,7 @@ From there you can choose to select the files or drag the files into your reposi
 ![githubintro4](https://cloud.githubusercontent.com/assets/11635523/15311396/fc1530f0-1bbf-11e6-8c4e-c56241d704e2.PNG)
 
 
-Another alternatvie way is by adding the files to the terminal using this git command
+Another alternatvie way is by adding the files though the terminal using this git command
 
 ```
 git remote add origin https://github.com/username/myproject.git
