@@ -13,3 +13,14 @@ On the upper right corner you select **New repository**
 Once you add the Repository name and if applicable,  you choose to add a description for the repositroy you can then click on **Create repositroy**
 
 From there you can then add the internal repository from your desktop to the remote repository that you just created **Index-File**
+
+![githubintro3](https://cloud.githubusercontent.com/assets/11635523/15311394/f8917a56-1bbf-11e6-8644-e05edc6dea58.PNG)
+
+![githubintro4](https://cloud.githubusercontent.com/assets/11635523/15311396/fc1530f0-1bbf-11e6-8c4e-c56241d704e2.PNG)
+
+
+
+```
+git remote add origin https://github.com/username/myproject.git
+
+```
