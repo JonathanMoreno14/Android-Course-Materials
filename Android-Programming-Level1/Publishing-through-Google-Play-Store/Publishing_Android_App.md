@@ -9,4 +9,8 @@ There will be a dropdown menu click on **Generate Signed APK...**
 
 ![publishapp2](https://cloud.githubusercontent.com/assets/11635523/15312108/e66d940c-1bc6-11e6-9cde-171e0de73f78.PNG)
 
+Generate Signed APK screen will show, you will need to select a path for the key store path
+
 ![publishapp3](https://cloud.githubusercontent.com/assets/11635523/15312109/e6709396-1bc6-11e6-8967-85a4d1d8adcd.PNG)
+
+*KeyStore is responsible for maintaining cryptographic keys and their owners. -Android Developer API *
