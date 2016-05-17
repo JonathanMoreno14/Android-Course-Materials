@@ -14,11 +14,19 @@ Once you add the Repository name and if applicable,  you choose to add a descrip
 
 From there you can then add the internal repository from your desktop to the remote repository that you just created **Index-File**
 
+Within your repository you will click on **Upload files**
+
+
 ![githubintro3](https://cloud.githubusercontent.com/assets/11635523/15311394/f8917a56-1bbf-11e6-8644-e05edc6dea58.PNG)
+
+
+From there you can choose to select the files or drag the files into your repository
+
 
 ![githubintro4](https://cloud.githubusercontent.com/assets/11635523/15311396/fc1530f0-1bbf-11e6-8c4e-c56241d704e2.PNG)
 
 
+Another alternatvie way is by adding the files to the terminal using this git command
 
 ```
 git remote add origin https://github.com/username/myproject.git
