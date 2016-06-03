@@ -34,7 +34,7 @@ Consist of familiarizing the student with the development tools such as Android 
 
 ###Projects
 
-[My Tip Calculatr](https://github.com/JonathanMoreno14/My-Tip-Calculatr) | Sample Project
+[My Tip Calculatr](https://github.com/JonathanMoreno14/My-Tip-Calculatr) | [Sample Project](https://github.com/JonathanMoreno14/Android-Course-Materials/tree/master/Android-Programming-Level1)
 ------------ | -------------
 ![tip_calculatorscreenshoot1_resize](https://cloud.githubusercontent.com/assets/11635523/15153948/eef60b66-16a0-11e6-8315-07d0ccede591.png) | ![output_v0xko3](https://cloud.githubusercontent.com/assets/11635523/15272436/0a372f0e-1a3e-11e6-8970-509e83674b9b.gif)
 They would create a similar application to this one (Tip Calculatr) | Sample project with topics covered
