@@ -64,7 +64,7 @@ They would create a similar application to this one (Tip Calculatr) | Sample pro
 
 Camera App | Notification App
 ------------ | -------------
-Content from cell 1 | ![notification_app](https://cloud.githubusercontent.com/assets/11635523/15791835/3f435450-299f-11e6-90aa-530bfdb39937.gif)
+Content from cell 1 | ![notification_app](https://cloud.githubusercontent.com/assets/11635523/15791992/26b4eeca-29a0-11e6-8c24-69d06da9d595.gif)
 Content in the first column | Content in the second column
 
 
