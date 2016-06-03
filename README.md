@@ -42,7 +42,30 @@ They would create a similar application to this one (Tip Calculatr) | Sample pro
 
 ###Android Programming Level 2
 
+####Topics Covered
 
+*Networking and Models*
+
+*Persistence*
+
+*Fragments*
+
+*Sensors and Device SDKs*
+
+*Services*
+
+*Testing*
+
+*Libraries*
+
+*Workflow*
+
+###Projects
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 
 ###Android Programming Level 3
