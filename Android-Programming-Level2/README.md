@@ -1,5 +1,6 @@
 #Android Programming Level 2
 
+###Camera App
 
 For the Camera App you will need these two permissions in the **AndroidManifest.xml** file
 
