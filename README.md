@@ -70,7 +70,7 @@ Content in the first column | Content in the second column
 
 JSON Parse App | Second Header
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+![jsonparser1](https://cloud.githubusercontent.com/assets/11635523/15798342/beb9c16e-29fa-11e6-833a-10f36f6a06a8.gif) | Content from cell 2
 Content in the first column | Content in the second column
 
 
