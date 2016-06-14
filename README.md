@@ -68,9 +68,9 @@ Camera App | Notification App
 Content in the first column | Content in the second column
 
 
-JSON Parse App | Second Header
+JSON Parse App | Android Github API Sample App
 ------------ | -------------
-![jsonparser1](https://cloud.githubusercontent.com/assets/11635523/15798342/beb9c16e-29fa-11e6-833a-10f36f6a06a8.gif) | Content from cell 2
+![jsonparser1](https://cloud.githubusercontent.com/assets/11635523/15798342/beb9c16e-29fa-11e6-833a-10f36f6a06a8.gif) | ![andriod_github_api_screencast](https://cloud.githubusercontent.com/assets/11635523/16028137/caebace6-31a1-11e6-96fe-7244874ebff3.gif)
 Content in the first column | Content in the second column
 
 
