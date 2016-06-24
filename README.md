@@ -74,7 +74,7 @@ JSON Parse App | [Android Github API Sample App](https://github.com/JonathanMore
 Content in the first column | Content in the second column
 
 
-AndroidSQLiteActiveAndroid | Second Header
+[AndroidSQLiteActiveAndroid](https://github.com/JonathanMoreno14/AndroidSQLiteActiveAndroid) | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
