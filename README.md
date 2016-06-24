@@ -76,7 +76,7 @@ Content in the first column | Content in the second column
 
 [AndroidSQLiteActiveAndroid](https://github.com/JonathanMoreno14/AndroidSQLiteActiveAndroid) | Second Header
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+![androidsqliteactiveandroid](https://cloud.githubusercontent.com/assets/11635523/16352680/412fdc50-3a36-11e6-8c28-ecc93f2f6bac.gif) | Content from cell 2
 Content in the first column | Content in the second column
 
 
