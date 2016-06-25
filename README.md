@@ -74,7 +74,7 @@ JSON Parse App | [Android Github API Sample App](https://github.com/JonathanMore
 Content in the first column | Content in the second column
 
 
-[AndroidSQLiteActiveAndroid](https://github.com/JonathanMoreno14/AndroidSQLiteActiveAndroid) | AndroidFacebookAPISampleApp
+[AndroidSQLiteActiveAndroid](https://github.com/JonathanMoreno14/AndroidSQLiteActiveAndroid) | [AndroidFacebookAPISampleApp](https://github.com/JonathanMoreno14/Android-Course-Materials/tree/master/Android-Programming-Level2/Facebook-API-SampleApp)
 ------------ | -------------
 ![androidsqliteactiveandroid](https://cloud.githubusercontent.com/assets/11635523/16352680/412fdc50-3a36-11e6-8c28-ecc93f2f6bac.gif) | ![androidfacebookapisampleapp](https://cloud.githubusercontent.com/assets/11635523/16354074/8c399d00-3a4d-11e6-89f3-b2b817842ef7.gif)
 Content in the first column | Content in the second column
