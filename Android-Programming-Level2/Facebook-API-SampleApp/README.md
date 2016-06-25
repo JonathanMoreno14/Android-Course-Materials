@@ -47,6 +47,26 @@ For Facebooks API you will need to add these on the Manifest file
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 ```
 
+**Facebook.login.widget.LoginButton** 
+
+You will need to add the widget to your **activity_main.xml** file
+
+```xml
+ <com.facebook.login.widget.LoginButton
+        android:id="@+id/login_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="connect_with_facebook"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="131dp" />
+
+
+```
+
+
+
 **Addendum**
 
 **printHahKey** method is for Generating  Hash Keys Via **Log.d**
