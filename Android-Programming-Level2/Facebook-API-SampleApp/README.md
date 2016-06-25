@@ -40,10 +40,11 @@ For Facebooks API you will need to add these on the Manifest file
 ```xml
    <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
 
-  <activity
-   android:name="com.facebook.FacebookActivity"              android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-   android:label="@string/app_name"
-  android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+    <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 ```
 
 **Addendum**
