@@ -40,9 +40,9 @@ Consist of familiarizing the student with the development tools such as Android 
 They would create a similar application to this one (Tip Calculatr) | Sample project with topics covered
 
 
-First Header | Second Header
+hello World | Second Header
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+![helloworld](https://cloud.githubusercontent.com/assets/11635523/20042664/f5888cde-a443-11e6-9748-caf57cc79747.gif) | Content from cell 2
 Content in the first column | Content in the second column
 
 
