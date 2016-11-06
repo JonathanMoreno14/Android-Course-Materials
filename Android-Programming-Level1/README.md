@@ -49,5 +49,25 @@ This repository contains a sample application that was used to create a simple g
 
 ```java
 
+ Button btn;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+
+        btn =(Button) findViewById(R.id.button);
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(MainActivity.this, Main2Activity.class);
+                startActivity(i);
+
+            }
+        });
+
+    }
+
 
 ```
