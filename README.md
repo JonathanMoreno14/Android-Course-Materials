@@ -40,6 +40,12 @@ Consist of familiarizing the student with the development tools such as Android 
 They would create a similar application to this one (Tip Calculatr) | Sample project with topics covered
 
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
 ###Android Programming Level 2
 
 ####Topics Covered
