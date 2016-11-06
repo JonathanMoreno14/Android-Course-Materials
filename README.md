@@ -40,7 +40,7 @@ Consist of familiarizing the student with the development tools such as Android 
 They would create a similar application to this one (Tip Calculatr) | Sample project with topics covered
 
 
-hello World | Second Header
+[hello World](https://github.com/JonathanMoreno14/Android-Course-Materials/tree/master/Android-Programming-Level1/Android-helloWorld-ExampleApp) | Second Header
 ------------ | -------------
 ![helloworld](https://cloud.githubusercontent.com/assets/11635523/20042664/f5888cde-a443-11e6-9748-caf57cc79747.gif) | Content from cell 2
 Content in the first column | Content in the second column
