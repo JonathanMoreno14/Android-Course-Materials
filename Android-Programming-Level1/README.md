@@ -71,3 +71,42 @@ This repository contains a sample application that was used to create a simple g
 
 
 ```
+
+
+###Material Design Portfolio
+
+![materialdesignportfolio](https://cloud.githubusercontent.com/assets/11635523/20086874/581e8fba-a539-11e6-984c-5e6b6e67048d.gif)
+
+####MainActivity.java code
+
+```java
+
+ private Toolbar mGeneralToolbar;
+    CollapsingToolbarLayout collapsingToolbar;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+
+        mGeneralToolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(mGeneralToolbar);
+
+        collapsingToolbar = (CollapsingToolbarLayout) findViewById(R.id.collapsing_tool);
+
+        collapsingToolbar.setTitle(mGeneralToolbar.getTitle());
+
+    }
+
+
+```
+####Dependencies
+
+```gradle
+
+    compile 'com.android.support:design:25.0.0'
+    compile 'com.android.support:cardview-v7:25.0.0'
+    compile 'de.hdodenhof:circleimageview:2.1.0'
+
+```
