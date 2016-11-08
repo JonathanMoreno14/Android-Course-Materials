@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mobile Developer</string>
+
+
+    <string name="name">Jonathan Moreno</string>
+    <string name="email">email@example.com</string>
+
+    <string name="title">Title</string>
+
+    <string name="bio">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Curabitur lorem erat, pulvinar vel rhoncus eu, posuere et purus. Nunc pellentesque eros libero, nec condimentum elit sollicitudin ac.
+        Quisque vehicula dui sit amet nibh convallis porta. Donec eu urna eu nisi fermentum tristique. Mauris eget imperdiet dolor.
+        Donec aliquet sed tortor non auctor. Maecenas tincidunt dolor eros, nec sodales lectus ornare sed. Donec ut iaculis purus. Nunc mollis ut neque id lobortis.
+    </string>
+
+
+</resources>
