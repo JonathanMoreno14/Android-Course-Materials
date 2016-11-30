@@ -93,4 +93,15 @@ Content in the first column | Content in the second column
 Content in the first column | Content in the second column
 
 
+[Android-FirebaseAuthDemo-Signup](https://github.com/JonathanMoreno14/Android-FirebaseAuthDemo-Signup) | Second Header
+------------ | -------------
+![firebase_signup](https://cloud.githubusercontent.com/assets/11635523/20765373/a50e7d9c-b6f7-11e6-8473-32820c06cb2a.gif) | Content from cell 2
+Content in the first column | Content in the second column
+
+
+##### Android-FirebaseAuthDemo-Signup
+
+![auth 2 registered user](https://cloud.githubusercontent.com/assets/11635523/20765364/9e6420e6-b6f7-11e6-9ab2-133bb313a6ea.JPG)
+
+
 ###Android Programming Level 3
