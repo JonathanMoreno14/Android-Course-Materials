@@ -73,7 +73,7 @@ Content in the first column |
 
 *Workflow*
 
-###Projects
+### Projects
 
 Camera App | Notification App
 ------------ | -------------
@@ -107,3 +107,7 @@ Content in the first column | Content in the second column
 ***
 
 ## Android Programming Level 3
+
+#### Topics Covered
+
+### Projects
