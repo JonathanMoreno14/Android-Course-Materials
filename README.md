@@ -3,10 +3,10 @@ This repository consist of Android Sample apps and additional sources for a clas
 
 The course Structure will consist of Android Levels
 
-###Android Programming Level 1
+### Android Programming Level 1
 Consist of familiarizing the student with the development tools such as Android Studio, Git (Version Control), and an introduction of the project structure. Along with Android Studio the student will create, build , and publish a simple calculator Android application on the Google Play Store.
 
-####Topics Covered
+#### Topics Covered
 *Structure*
 
 *Views and Layouts*
@@ -51,7 +51,7 @@ Content in the first column | Content in the second column
 ![materialdesignnavdrawer](https://cloud.githubusercontent.com/assets/11635523/20128011/6e504e82-a60a-11e6-8563-c31c6d1d111f.gif) | 
 Content in the first column | 
 
-
+***
 
 ###Android Programming Level 2
 
@@ -104,4 +104,6 @@ Content in the first column | Content in the second column
 ![auth 2 registered user](https://cloud.githubusercontent.com/assets/11635523/20765364/9e6420e6-b6f7-11e6-9ab2-133bb313a6ea.JPG)
 
 
-###Android Programming Level 3
+***
+
+### Android Programming Level 3
