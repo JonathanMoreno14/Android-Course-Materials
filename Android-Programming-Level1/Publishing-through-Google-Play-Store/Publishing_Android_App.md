@@ -53,10 +53,21 @@ After that is completed you can Select **Publish App** on the applications scree
 
 # Common Error
 
-Sometimes when you generate the APK and try to upload it to the Google Developer Console you might run into this common error. 
+If you are a beginner when you generate the APK and try to upload it to the Google Developer Console you might run into this common error. 
+
+##### “com.example is restricted”* when uploading APK to Play Store
 
 
+![error 1](https://user-images.githubusercontent.com/11635523/40244807-7cdf1066-5a89-11e8-8f52-b8bede81696e.png)
+
+In your **app/build.gradle (Module:App)** is were you will make the change 
+
+![error 2](https://user-images.githubusercontent.com/11635523/40244808-7cfa2f90-5a89-11e8-9629-8da9e71625ac.png)
+
+You will replace **example** with a word you would like to use, organization, business..etc... then you **rebuild the project**
+
+![error 3](https://user-images.githubusercontent.com/11635523/40244809-7d11231c-5a89-11e8-8299-a734d4a1989e.png)
 
 
-
+For further reading here is a link to the stackoverflow question *[“com.example is restricted” when uploading APK to Play Store](https://stackoverflow.com/questions/17397195/com-example-is-restricted-when-uploading-apk-to-play-store)*
 
