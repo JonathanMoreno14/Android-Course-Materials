@@ -1,4 +1,4 @@
-#Publishing Your Android Application
+# Publishing Your Android Application
 
 Using Android Studio on the top center you will click on the **Build** function
 
@@ -48,4 +48,15 @@ Once that is completed you can now finish up the Store Listings, if you have not
 ![publishapp10](https://cloud.githubusercontent.com/assets/11635523/15336881/4e00b6a4-1c3e-11e6-8546-b53d07ba5a72.PNG)
 
 After that is completed you can Select **Publish App** on the applications screen. Depending on the file size it can take up to a couple of hours for the application to appear on the Google Play Store. 
+
+***
+
+# Common Error
+
+Sometimes when you generate the APK and try to upload it to the Google Developer Console you might run into this common error. 
+
+
+
+
+
 
