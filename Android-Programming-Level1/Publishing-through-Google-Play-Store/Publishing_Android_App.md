@@ -1,53 +1,111 @@
 # Publishing Your Android Application
 
-Using Android Studio on the top center you will click on the **Build** function
+This is an updated version there have been several updates and changes to the Google Developer Console
 
 
-![publishapp1](https://cloud.githubusercontent.com/assets/11635523/15312107/e66d9dda-1bc6-11e6-96e1-1dd7519f38cb.PNG)
 
-There will be a dropdown menu click on **Generate Signed APK...**
+Using Android Studio on the top center you will click on the **Build** and click on **Generate signed APK**
 
-![publishapp2](https://cloud.githubusercontent.com/assets/11635523/15312108/e66d940c-1bc6-11e6-9cde-171e0de73f78.PNG)
+![1](https://user-images.githubusercontent.com/11635523/40245622-df080d36-5a8b-11e8-92e1-aaa7b582c292.png)
 
-Generate Signed APK screen will show, you will need to select a path for the **key store** path. 
-
-![publishapp3](https://cloud.githubusercontent.com/assets/11635523/15312109/e6709396-1bc6-11e6-8967-85a4d1d8adcd.PNG)
+If this is your first time publishing your Android application then you will need to create a **KeyStore** path
 
 *KeyStore is responsible for maintaining cryptographic keys and their owners. -Android Developer API*
 
-You will then need to provide a **key store password**, **key Alias**, and **key password** for your application. The key Alias is a hint for the type of application you are using. From there you will click **Next** Android Studio will generate the APK.
+You will then need to provide a **key store password**, **key Alias**, and **key password** for your application. The key Alias is a hint for the type of application you are using.
 
 
+![2](https://user-images.githubusercontent.com/11635523/40245623-df232634-5a8b-11e8-9975-fce5e46fd7a6.png)
 
-Once the APK has been generated you will need to go to **Google Developer Console** The console is used to upload and distribute your finished Android Applications. 
+You will need to select a path to store the KeyStore
 
-![publishapp4](https://cloud.githubusercontent.com/assets/11635523/15336884/4e0e4382-1c3e-11e6-8647-6854d951fcd9.PNG)
+![3](https://user-images.githubusercontent.com/11635523/40245624-df475996-5a8b-11e8-9bb6-7591e58ab98f.png)
 
-Once you ready to upload the Genearted APK you will click on **+Add New Application**
+In this example, the KeyStore path was added to AndroidStudioProjects folder and created a folder to store the KeyStores
 
-![publishapp5](https://cloud.githubusercontent.com/assets/11635523/15336878/4dff681c-1c3e-11e6-92e2-bc6cf70ed58e.PNG)
 
-A Screen will pop pup, you will need to type in the title of the application. Once that is done you will click on **Upload APK** or select **Prepare Store Listing** the store listings are the markteting attributes for the Application once it is uploaded to the Google Play Store
+![4](https://user-images.githubusercontent.com/11635523/40245625-df5dffd4-5a8b-11e8-9c98-afded19f9229.png)
 
-![publishapp6](https://cloud.githubusercontent.com/assets/11635523/15336882/4e046948-1c3e-11e6-8c91-93fb446855a6.PNG)
 
-Once the APK has been downloaded you will be taken to the applications screen for that specific application you uploaded. When you are ready you can now upload the APK to Production
+Once the path is chosen and the password is selected along with the alias of your choice you click on **OK**
 
-![publishapp7](https://cloud.githubusercontent.com/assets/11635523/15336883/4e046a24-1c3e-11e6-9cc4-3fd9770c5f2b.PNG)
+-**Please make sure to save you password for future use if needed  to update the application**
 
-To upload the APK to Production you will need to click on **Upload your First APK to Production**
+![5](https://user-images.githubusercontent.com/11635523/40245626-df741d46-5a8b-11e8-99e6-62a53ac046c3.png)
 
-![publishapp8](https://cloud.githubusercontent.com/assets/11635523/15336879/4dfff7dc-1c3e-11e6-803f-0b898ac040e0.PNG)
+Then you click on **Next**
 
-From there another screen will pop up, you will have the choice of drag and drop the APK or selecting the file
 
-![publishapp9](https://cloud.githubusercontent.com/assets/11635523/15336880/4e0083c8-1c3e-11e6-8dcb-774852015296.PNG)
+![6](https://user-images.githubusercontent.com/11635523/40245628-df8e25ba-5a8b-11e8-90f7-52b1a166eeba.png)
 
-Once that is completed you can now finish up the Store Listings, if you have not started on it. You will need to work on the **Content Rating**, **Pricing & Distribution**, **In-App Products**, and **Services & APIs** 
+Google added a new type of signature feature. Here you will select either **V1 (Jar Signature)** or **V2 (Full APK Signature)** for more information you can view the [Android Source](https://source.android.com/security/apksigning/v2) website and [Stackoverflow](https://stackoverflow.com/questions/42648499/difference-between-signature-versions-v1jar-signature-and-v2full-apk-signat).
 
-![publishapp10](https://cloud.githubusercontent.com/assets/11635523/15336881/4e00b6a4-1c3e-11e6-8546-b53d07ba5a72.PNG)
+![7](https://user-images.githubusercontent.com/11635523/40245629-dfaa8dae-5a8b-11e8-985e-0aef18a61d40.png)
 
-After that is completed you can Select **Publish App** on the applications screen. Depending on the file size it can take up to a couple of hours for the application to appear on the Google Play Store. 
+From there you will click **Finish** Android Studio will generate the APK.
+
+![8](https://user-images.githubusercontent.com/11635523/40245630-dfc10642-5a8b-11e8-91a6-22104440bfa5.png)
+
+
+Once the APK has been generated you will need to go to **Google Developer Console** The console is used to upload and distribute your finished Android Applications.
+
+On the upper right corner you will see a **CREATE APPLICATION** button and you will select it.
+
+![9](https://user-images.githubusercontent.com/11635523/40245632-dfd72b0c-5a8b-11e8-8a34-c437dfbe644a.png)
+
+A screen will pop up and ask you to add a title from there you will select **CREATE**
+
+![10](https://user-images.githubusercontent.com/11635523/40245633-dfed4aae-5a8b-11e8-983d-1fb6b4ef1a65.png)
+
+Once the application has been created you will be taken to this screen where you will need to add information about the app. The information will be used to share with the public and those that download your application. **Everything in the left corner can and might be used for your application**. Depending on the type of application you plan to publish  the main sections are **App release** **Store listing** **Content rating** and  **Pricing & distribution**
+
+![11](https://user-images.githubusercontent.com/11635523/40245634-e0093f66-5a8b-11e8-966f-bf4c7c1c128b.png)
+
+To upload your Generated Signed APK you will need to go to **App release** and click on **MANAGE**
+
+![12](https://user-images.githubusercontent.com/11635523/40245635-e01d9312-5a8b-11e8-8de4-d2218723fc6c.png)
+
+Google added another feature  **App signing by Google Play** you can sign up or opt out. For more information [Google Support](https://support.google.com/googleplay/android-developer/answer/7384423?hl=en) and [Securing and Optimizing Your App with Google Play App Signing](https://medium.com/mindorks/securing-and-optimizing-your-app-with-google-play-app-signing-24a3658fd319)
+
+![13](https://user-images.githubusercontent.com/11635523/40245636-e035cf18-5a8b-11e8-9be2-a986559a19cf.png)
+
+Once you select either to sign up or opt out you can then add the Generated Signed APK by uploading the files
+
+![14](https://user-images.githubusercontent.com/11635523/40245637-e04c2402-5a8b-11e8-8235-50d288599e6e.png)
+
+Once it's added...
+
+![15](https://user-images.githubusercontent.com/11635523/40245638-e0657a42-5a8b-11e8-91bb-a23e21f2c39c.png)
+
+One the upper right corner of the Google Developer Console screen you will select **Ready to publish**
+
+![16](https://user-images.githubusercontent.com/11635523/40245639-e079a62a-5a8b-11e8-8fac-008844c31964.png)
+
+
+![17](https://user-images.githubusercontent.com/11635523/40245640-e08eea6c-5a8b-11e8-8f44-01762875b478.png)
+
+A pop up will show up and it will show you where you can begin working on publishing the application.
+
+![18](https://user-images.githubusercontent.com/11635523/40245641-e0ab1232-5a8b-11e8-8397-eb36f174f82d.png)
+
+
+In your **Production track** under **App release** you will click on **MANAGE**
+
+![19](https://user-images.githubusercontent.com/11635523/40245642-e0c75f0a-5a8b-11e8-8baf-c95045e9a1b1.png)
+
+The information about your application will be displayed, you can add new release information under **What's new in this release?**. You select **START ROLLOUT TO PRODUCTION** to begin publishing the application.
+
+![20](https://user-images.githubusercontent.com/11635523/40245643-e0dd2de4-5a8b-11e8-88dd-85c096bcb987.png)
+
+A popup will show asking if you would like to continue, select **CONFIRM**
+
+![21](https://user-images.githubusercontent.com/11635523/40245644-e0f297ba-5a8b-11e8-90ef-970a7a875b51.png)
+
+Now your application is pending publication. If everything goes well then your application will be in the Google Play Store
+
+![22](https://user-images.githubusercontent.com/11635523/40245645-e108ae4c-5a8b-11e8-8405-5ddce44256ad.png)
+
+
 
 ***
 
