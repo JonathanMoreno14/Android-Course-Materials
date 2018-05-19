@@ -1,10 +1,12 @@
 # Android-Course-Materials
-This repository consist of Android Sample apps and additional sources for a class I will be teaching on Android Programming at The University of Texas at Arlington. The Sample apps where created to show theory with application
+This repository consist of Android Sample apps and additional sources for a class I teach on Android Programming at The University of Texas at Arlington. The Sample apps where created to show theory with application
 
-The course Structure will consist of Android Levels
+The course Structure consist of Android Levels 1 - 3
+
+The student will utilize development tools such as Android Studio, Git (Version Control), and an introduction of the project structure. Along with Android Studio the student will create, build , and publish Android applications on the Google Play Store.
 
 ## Android Programming Level 1
-Consist of familiarizing the student with the development tools such as Android Studio, Git (Version Control), and an introduction of the project structure. Along with Android Studio the student will create, build , and publish a simple calculator Android application on the Google Play Store.
+
 
 #### Topics Covered
 *Structure*
@@ -36,7 +38,7 @@ Consist of familiarizing the student with the development tools such as Android 
 
 [My Tip Calculatr](https://github.com/JonathanMoreno14/My-Tip-Calculatr) | [Sample Project](https://github.com/JonathanMoreno14/Android-Course-Materials/tree/master/Android-Programming-Level1)
 ------------ | -------------
-![tip_calculatorscreenshoot1_resize](https://cloud.githubusercontent.com/assets/11635523/15153948/eef60b66-16a0-11e6-8315-07d0ccede591.png) | ![output_v0xko3](https://cloud.githubusercontent.com/assets/11635523/15272436/0a372f0e-1a3e-11e6-8970-509e83674b9b.gif)
+![screenshot](https://user-images.githubusercontent.com/11635523/40263644-379f5824-5adb-11e8-993f-a95185d6e618.png) | ![output_v0xko3](https://cloud.githubusercontent.com/assets/11635523/15272436/0a372f0e-1a3e-11e6-8970-509e83674b9b.gif)
 They would create a similar application to this one (Tip Calculatr) | Sample project with topics covered
 
 
