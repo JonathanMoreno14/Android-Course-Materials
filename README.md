@@ -38,7 +38,7 @@ The student will utilize development tools such as Android Studio, Git (Version 
 
 [My Tip Calculatr](https://github.com/JonathanMoreno14/My-Tip-Calculatr) | [Sample Project](https://github.com/JonathanMoreno14/Android-Course-Materials/tree/master/Android-Programming-Level1)
 ------------ | -------------
-![screenshot](https://user-images.githubusercontent.com/11635523/40263644-379f5824-5adb-11e8-993f-a95185d6e618.png) | ![output_v0xko3](https://cloud.githubusercontent.com/assets/11635523/15272436/0a372f0e-1a3e-11e6-8970-509e83674b9b.gif)
+![screenshot](https://user-images.githubusercontent.com/11635523/40263644-379f5824-5adb-11e8-993f-a95185d6e618.png) | ![ezgif com-resize 14](https://user-images.githubusercontent.com/11635523/40263758-ab53ffa8-5adc-11e8-8790-b8593b461b65.gif)
 They would create a similar application to this one (Tip Calculatr) | Sample project with topics covered
 
 
