@@ -41,6 +41,9 @@ The student will utilize development tools such as Android Studio, Git (Version 
 ![screenshot](https://user-images.githubusercontent.com/11635523/40263644-379f5824-5adb-11e8-993f-a95185d6e618.png) | ![ezgif com-resize 14](https://user-images.githubusercontent.com/11635523/40263758-ab53ffa8-5adc-11e8-8790-b8593b461b65.gif)
 They would create a similar application to this one (Tip Calculatr) | Sample project with topics covered
 
+Markdown | Less | 
+--- | --- | ---
+*Still* | `renders` | **nicely**
 
 [hello World](https://github.com/JonathanMoreno14/Android-Course-Materials/tree/master/Android-Programming-Level1/Android-helloWorld-ExampleApp) | [Material Design Portfolio](https://github.com/JonathanMoreno14/Android-Course-Materials/tree/master/Android-Programming-Level1/Android-MaterialDesignPortfolioApp)
 ------------ | -------------
