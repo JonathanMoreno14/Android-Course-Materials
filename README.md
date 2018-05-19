@@ -43,9 +43,9 @@ They would create a similar application to this one (Tip Calculatr) | Sample pro
 
 
 
-| To Do List        | Login          |   |
-| ------------- |:-------------:| -----:|
-| ![ezgif com-resize 15](https://user-images.githubusercontent.com/11635523/40263919-76f45e08-5adf-11e8-94bd-3baf0849697b.gif)    | right-aligned | $1600 |
+| To Do List        | Login Screen |   
+| ------------- |:-------------:| 
+| ![ezgif com-resize 15](https://user-images.githubusercontent.com/11635523/40263919-76f45e08-5adf-11e8-94bd-3baf0849697b.gif)    | ![ezgif com-resize](https://user-images.githubusercontent.com/11635523/40264044-845978c4-5ae1-11e8-94d6-93590e2944af.png) |  
 
 
 
