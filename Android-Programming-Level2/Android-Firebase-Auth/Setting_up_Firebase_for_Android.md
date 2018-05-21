@@ -125,6 +125,8 @@ After you have added the  **complie 'com.google.firebase:firebase-core:15.0.2'**
 
 <img width="977" alt="common error v2- 1" src="https://user-images.githubusercontent.com/11635523/40332258-18f648de-5d19-11e8-8062-fd66fcf01741.png">
 
+- For [common gradle errors](https://github.com/JonathanMoreno14/Android-Course-Materials/blob/master/Android-Programming-Level2/Gradle-Config/Common_Gradle_Errors.md)
+
 <img width="1342" alt="common eror v2-2" src="https://user-images.githubusercontent.com/11635523/40332257-18db8c42-5d19-11e8-89a2-18546c569b12.png">
 
 All you will need to do is change **compile** to **implementation**
