@@ -98,6 +98,10 @@ After the configuration this screen will show
 
 ![20](https://user-images.githubusercontent.com/11635523/40329168-47a3dea4-5d0e-11e8-9455-bbbc64824014.png)
 
+***
+
+# Common Errors with setting up Firebase
+
 
 
 ***
