@@ -1,5 +1,7 @@
 # Setting up Firebase for Android 
 
+This is an updated version for setting up Firebase for Android
+
 ### Create a project
 
 
