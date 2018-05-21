@@ -102,7 +102,38 @@ After the configuration this screen will show
 
 # Common Errors with setting up Firebase
 
+#### Common Error 1
 
+When adding the **google-services.json** file one of the most common mistakes is adding it the file outside the **app** folder
+
+Error:
+> **File google-services.json is missing. The Google Services Plugin cannot function without it.**
+
+<img width="232" alt="commonr error 1" src="https://user-images.githubusercontent.com/11635523/40331999-f41acffe-5d17-11e8-9bc8-bdba6d1d1567.png">
+
+You will need to add it to your **app/...**
+
+<img width="304" alt="common error 2" src="https://user-images.githubusercontent.com/11635523/40331998-f4038920-5d17-11e8-9084-5d8f50e068f6.png">
+
+
+For more information [Stackoverflow](https://stackoverflow.com/questions/33866061/error-file-google-services-json-is-missing-from-module-root-folder-the-google )
+
+#### Common Error 2
+
+After you have added the  **complie 'com.google.firebase:firebase-core:15.0.2'** in your **build.gradle(Module:app)** and you **sync** the gradle you will have a compile error:
+> **WARNING: Configuration 'compile'is obsolete and has been replaced with 'implementation' and 'api'.**
+
+<img width="977" alt="common error v2- 1" src="https://user-images.githubusercontent.com/11635523/40332258-18f648de-5d19-11e8-8062-fd66fcf01741.png">
+
+<img width="1342" alt="common eror v2-2" src="https://user-images.githubusercontent.com/11635523/40332257-18db8c42-5d19-11e8-89a2-18546c569b12.png">
+
+All you will need to do is change **compile** to **implementation**
+
+<img width="552" alt="common error v2-3" src="https://user-images.githubusercontent.com/11635523/40332259-19132a62-5d19-11e8-8d6e-154af7f06ee0.png">
+
+For more information [GitHub Community Forum](https://github.community/t5/Project-Development-Help-and/Android-Studio-3-1-0-Configuration-compile-is-obsolete-and-has/td-p/5393)
+
+For additional information [Android Developer](https://developer.android.com/studio/build/gradle-plugin-3-0-0-migration)
 
 ***
 
