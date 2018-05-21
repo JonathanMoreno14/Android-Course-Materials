@@ -11,6 +11,24 @@ A common error is when you have different Android support libraries in your depe
 <img width="794" alt="common error v3-2" src="https://user-images.githubusercontent.com/11635523/40333303-73a60978-5d1d-11e8-8371-bd29db83acaa.png">
 
 
+You will need to add the following configuration in your **build.gradle(Project:AppName)**
+
+```gradle
+
+subprojects {
+    project.configurations.all {
+        resolutionStrategy.eachDependency { details ->
+            if (details.requested.group == 'com.android.support'
+                    && !details.requested.name.contains('multidex') ) {
+                details.useVersion "supportlibrary_version"
+            }
+        }
+    }
+}
+
+```
+
+
 <img width="882" alt="common error v3-3" src="https://user-images.githubusercontent.com/11635523/40333304-73d3b634-5d1d-11e8-87ad-6ede7fa52a7b.png">
 
 For more information you can find it at [Stackoverflow](https://stackoverflow.com/questions/42581963/all-com-android-support-libraries-must-use-the-exact-same-version)
