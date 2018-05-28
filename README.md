@@ -84,6 +84,12 @@ Content in the first column |
 
 ### Projects
 
+
+| Android Login Screen with Firebase        |            |   |
+| ------------- |:-------------:| -----:|
+| ![webp net-gifmaker 2](https://user-images.githubusercontent.com/11635523/40630177-f2482fa4-6295-11e8-99d2-1df3f71d9f44.gif)|  |  |
+
+
 Camera App | Notification App
 ------------ | -------------
 ![camera_app](https://cloud.githubusercontent.com/assets/11635523/15792335/4320cab4-29a2-11e6-8b57-4698de91666a.gif) | ![notification_app](https://cloud.githubusercontent.com/assets/11635523/15791992/26b4eeca-29a0-11e6-8c24-69d06da9d595.gif)
