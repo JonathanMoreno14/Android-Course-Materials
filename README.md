@@ -126,3 +126,7 @@ Content in the first column | Content in the second column
 #### Topics Covered
 
 ### Projects
+
+| Google Maps   |            | 
+| ------------- |:-------------:| 
+| col 3 is      | right-aligned | 
