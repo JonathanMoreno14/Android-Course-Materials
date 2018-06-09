@@ -129,4 +129,4 @@ Content in the first column | Content in the second column
 
 | Google Maps   |            | 
 | ------------- |:-------------:| 
-| col 3 is      | right-aligned | 
+| ![webp net-gifmaker 6](https://user-images.githubusercontent.com/11635523/41187689-ecdd2a50-6b74-11e8-86f7-3114f13d2f8f.gif)      | ![webp net-gifmaker 5](https://user-images.githubusercontent.com/11635523/41187688-ecc98360-6b74-11e8-81fb-57432437acd2.gif) | 
