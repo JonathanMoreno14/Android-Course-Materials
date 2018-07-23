@@ -133,6 +133,7 @@ Content in the first column | Content in the second column
 
 [Setting up Google Maps API](https://github.com/JonathanMoreno14/Android-Course-Materials/tree/master/Android-Programming-Level3/Google-Maps-API)
 
+***
 
 ## Android Coding Camp
 
