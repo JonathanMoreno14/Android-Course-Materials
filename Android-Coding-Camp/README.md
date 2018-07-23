@@ -19,3 +19,7 @@
   </style>
 
 ```
+
+#### Pokemon Images used
+
+Can be found in my [Index-File](https://github.com/JonathanMoreno14/Index-File/tree/master/Images) repository
